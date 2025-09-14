@@ -1,0 +1,24 @@
+<!DOCTYPE.html>
+<html>
+<head>
+    <title>My bio</title>
+<center>
+</head>
+<body>
+   <h2>introduction </h1>
+   <p>My name is Dhilsha,<br>
+     My father name is Balasubramaniyan,<br>
+     My mother name is kalaiyarashi,<br>
+     My brother name is Dhipeth,<br>
+     I lives in Rajankattalai,<br>
+     I studied to Dr. M sivakkannu Womens Arts and science collage<\p>
+<img src="Dhilsha1.jpg"alt="family photo"width="400"height ="200">
+   <h3>future gole</h3>
+   <p> My greatest wish is to get a job and work hard so that I can pay for a house with that money<p>
+ <img src="Dhilsha2.jpg"alt="home"width="400"height="200">
+ <lable for="liked">liked</lable>
+ <lable for="disliked>disliked</lable>
+ </body>
+ </html>
+ 
+mkaranpulammkaranpulamkaranpulamamkaranpulam
